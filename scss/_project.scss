@@ -2,7 +2,7 @@
 	&__image {
 		height: 30vh;
 		background: linear-gradient(to right, rgba($primary-color, 0.9), rgba($primary-color, 0.3)),
-			url('/dist/img/model-1')
+			url(/dist/img/model-1)
 				no-repeat top;
 		background-size: cover;
 		display: flex;
