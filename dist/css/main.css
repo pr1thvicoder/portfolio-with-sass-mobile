@@ -13,7 +13,6 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("https://github.com/pr1thvicoder/portfolio-with-sass-demo/blob/main/dist/img/model-1.jpg?raw=true") no-repeat top;
   background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("https://github.com/pr1thvicoder/portfolio-with-sass-demo/blob/main/dist/img/model-1.jpg?raw=true") no-repeat top;
   background-size: cover;
 }
